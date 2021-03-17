@@ -1,0 +1,7 @@
+{
+    "name": "main",
+    "speed": 0.001,
+    "mode": "l",
+    "text_path": "./data/main/hacking_short.txt",
+    "delay": 0
+}

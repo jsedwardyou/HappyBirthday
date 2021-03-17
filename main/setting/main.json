@@ -1,0 +1,31 @@
+{
+    "width": "0",
+    "height": "0",
+    "bg_color": "black",
+    "rm_title": "True",
+    "fullscreen": "True",
+    "pos_x": 0,
+    "pos_y": 0,
+    "tf": [
+        {
+            "name": "main",
+            "width": 300,
+            "height": 100,
+            "bg_color": "black",
+            "border": "0",
+            "font": {
+                "name": "courier",
+                "size": 8,
+                "weight": "normal"
+            },
+            "tf_tag":[
+                {
+                    "name": "code",
+                    "foreground": "green yellow",
+                    "background": "black"
+                }
+            ]
+        }
+    ],
+    "initial_delay": 0
+}

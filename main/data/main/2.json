@@ -1,0 +1,7 @@
+{
+    "name": "main",
+    "speed": 0.1,
+    "mode": "l",
+    "text_path": "./data/main/banner.txt",
+    "delay": 1
+}

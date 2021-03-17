@@ -1,0 +1,53 @@
+{
+    "width": "600",
+    "height": "300",
+    "bg_color": "black",
+    "rm_title": "True",
+    "fullscreen": "False",
+    "pos_x": 600,
+    "pos_y": 400,
+    "frame":[
+        {
+            "name": "success",
+            "width": 600,
+            "height": 300,
+            "bg": "black",
+            "highlightthickness": 3,
+            "highlightbackground": "yellow green",
+            "label":[
+                {
+                    "name": "success",
+                    "text": "SUCCESS",
+                    "fg": "yellow green",
+                    "bg": "black",
+                    "width": 500,
+                    "height": 0,
+                    "font":{
+                        "family": "courier",
+                        "size": 30,
+                        "weight": "normal"
+                    },
+                    "pady": 40,
+                    "padx": 0
+                },
+                {
+                    "name": "code",
+                    "text": "[DJK942F]",
+                    "fg": "red",
+                    "bg": "black",
+                    "width": 500,
+                    "height": 200,
+                    "font":{
+                        "family": "courier",
+                        "size": 50,
+                        "weight": "normal"
+                    },
+                    "pady": 0,
+                    "padx": 0
+                }
+            ]
+        }
+    ],
+    "initial_delay": 1,
+    "post_delay": 2
+}

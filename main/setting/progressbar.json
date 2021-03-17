@@ -1,0 +1,49 @@
+{
+    "width": "500",
+    "height": "300",
+    "pos_x": "700",
+    "pos_y": "400",
+    "bg_color": "black",
+    "rm_title": "True",
+    "fullscreen": "False",
+
+    "bar": [
+        {
+            "name": "main",
+            "theme": "default",
+            "length": 450,
+            "color": "yellow green",
+            "thickness": 30,
+            "troughcolor": "black",
+            "bordercolor": "white",
+            "duration": 100,
+            "mode": "determinate",
+            "style": "TProgressbar",
+            "pady": 15,
+            "padx": 0,
+            "speed": 0.1
+        }
+    ],
+    "tf": [
+        {
+            "name": "loading",
+            "width": 100,
+            "height": 50,
+            "bg_color": "black",
+            "border": "0",
+            "font": {
+                "name": "courier",
+                "size": 8,
+                "weight": "normal"
+            },
+            "tf_tag":[
+                {
+                    "name": "code",
+                    "foreground": "green yellow",
+                    "background": "black"
+                }
+            ]
+        }
+    ],
+    "post_delay": 2
+}
