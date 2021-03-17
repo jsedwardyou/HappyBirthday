@@ -32,14 +32,14 @@
                 },
                 {
                     "name": "code",
-                    "text": "[DJK942F]",
+                    "text": "[-5.1, 0.3, 4.1]",
                     "fg": "red",
                     "bg": "black",
                     "width": 500,
                     "height": 200,
                     "font":{
                         "family": "courier",
-                        "size": 50,
+                        "size": 30,
                         "weight": "normal"
                     },
                     "pady": 0,
